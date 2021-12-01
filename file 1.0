@@ -15,9 +15,9 @@ d = (b ** 2) - (4 * a * c)
 print(d)
 #TO-DO
 if d < 0:
-    print("ERROR")
+    print("d = is less-or-equal than 0")
     exit(0)
-else: 
+else:
     x_1 = (-b * m.sqrt-(d))/2 * a
     x_2 = (-b * m.sqrt+(d))/2 * a
-    print('')
+    print('This is result')
